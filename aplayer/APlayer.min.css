@@ -203,6 +203,13 @@
     position: relative
 }
 
+/* border-radius */
+.aplayer .aplayer-body,
+.aplayer-miniswitcher,
+.aplayer-icon {
+    border-radius: 0 6px 6px 0 !important;
+}
+
 .aplayer .aplayer-icon {
     width: 15px;
     height: 15px;
